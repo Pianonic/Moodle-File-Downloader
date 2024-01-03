@@ -1,7 +1,3 @@
-Certainly! Here's a basic README template for your "Moodle-File-Downloader" repository with the GPL-3.0 license:
-
----
-
 # Moodle File Downloader
 
 ![GitHub license](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
