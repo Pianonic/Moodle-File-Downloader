@@ -24,7 +24,7 @@ The **Moodle File Downloader** is a Python script designed to download files fro
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Moodle-File-Downloader.git
+   git clone https://github.com/PianoNic/Moodle-File-Downloader.git
    ```
 
 2. Install dependencies:
