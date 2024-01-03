@@ -17,7 +17,6 @@ The **Moodle File Downloader** is a Python script designed exclusively for downl
 - Python 3.x
 - Requests library
 - BeautifulSoup library
-- (Additional libraries as specified in requirements.txt)
 
 ## Usage
 
