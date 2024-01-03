@@ -35,7 +35,7 @@ The **Moodle File Downloader** is a Python script designed exclusively for downl
 3. Run the script:
 
    ```bash
-   python moodle_file_downloader.py
+   python main.py
    ```
 
 ## Configuration
