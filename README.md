@@ -4,7 +4,7 @@
 
 ## Description
 
-The **Moodle File Downloader** is a Python script designed to download files from a Moodle course page and organize them into a zip archive. It utilizes web scraping techniques to extract information from the course page and downloads files associated with specific activities.
+The **Moodle File Downloader** is a Python script designed exclusively for downloading files from a Moodle course page on moodle.bbbaden.ch. It organizes the files into a zip archive using web scraping techniques to extract information from the course page.
 
 ## Features
 
