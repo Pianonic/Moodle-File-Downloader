@@ -16,7 +16,7 @@ def sanitize_filename(filename):
 
     return sanitized_filename
 
-url = "https://moodle.bbbaden.ch/course/view.php?id=1154"
+url = "https://moodle.bbbaden.ch/course/view.php?id="
 cookie = {"MoodleSession": ""}
 
 # Send HTTP GET request with the provided cookie
