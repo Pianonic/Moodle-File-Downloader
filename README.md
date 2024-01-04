@@ -9,7 +9,7 @@ The **Moodle File Downloader** is a Python script designed exclusively for downl
 ## Features
 
 - Automatic extraction of file names from Moodle course page
-- Sanitization of file names for legal and safe use
+- Sanitization of file names
 - Creation of a zip archive for organized file storage
 
 ## Requirements
